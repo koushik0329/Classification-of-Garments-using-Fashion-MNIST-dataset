@@ -16,3 +16,9 @@ Anaconda
 8 Go through results
 
 or use Google colab
+
+
+
+Tutorial video 
+
+https://drive.google.com/file/d/14ctVfMT6KCz6By29_NYe9hh5MnsJh4y0/view?usp=sharing
